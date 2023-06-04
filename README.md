@@ -111,7 +111,7 @@ WeatherWizard is a command-line tool that accepts a temperature unit, city's nam
 ```
 
 ├── WeatherWizard
-│   ├── main.py
+│   ├── weather_forecast.py
 │   
 ├── Images
 
